@@ -1,13 +1,11 @@
-# Power-BI-machetazo-colors
-
 # Sales Performance Dashboard
 
 <p align="center">
-  <img src="assets/dashboard_ventas.png" alt="Sales performance dashboard" width="900">
+  <img width="764" height="767" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/4f471062-9746-44dc-8aa7-250ca160b6c4" />
 </p>
 
 ## 📊 Overview
-This repository contains a **Sales Performance Dashboard** designed to visualize and analyze key business metrics.  
+This repository contains a **Sales Performance Dashboard** that visualizes and analyzes key business metrics.  
 It provides a clear view of revenues, transactions, gross margin, and sales distribution across different categories, stores, and payment methods.
 
 ## 🔑 Key Metrics
@@ -17,20 +15,20 @@ It provides a clear view of revenues, transactions, gross margin, and sales dist
 - **Gross Margin:** 32.6%  
 
 ## 📈 Dashboard Insights
-- **Monthly Revenue Trends**: Track fluctuations in revenue across different months.  
+- **Monthly Revenue Trends**: Track fluctuations in revenue across months.  
 - **Revenue by Category**: Beverages, Dairy, Bakery, Fruits & Vegetables.  
 - **Top 5 Stores by Revenue**: Ranking of the highest-performing stores.  
-- **Sales Channels**: Physical vs. Online contribution.  
+- **Sales Channels**: Breakdown between Physical and Online.  
 - **Payment Methods**: Cash, Credit Card, Debit Card distribution.  
 
 ## 🛠️ Technologies
-- **Power BI / Data Visualization Tools**  
+- **Power BI / Data Visualization**  
 - **Business Intelligence (BI) Best Practices**  
 
 ## 🚀 Usage
 1. Clone this repository.  
-2. Navigate to the `assets/` folder to view the dashboard image.  
-3. You can embed the dashboard into your own documentation with:
+2. View the dashboard directly in this README or check the `assets/` folder for the image (if included).  
+3. Embed it in your own documentation with:
 
 ```md
-![Sales Dashboard](assets/dashboard_ventas.png)
+![Sales Dashboard](https://github.com/user-attachments/assets/4f471062-9746-44dc-8aa7-250ca160b6c4)
