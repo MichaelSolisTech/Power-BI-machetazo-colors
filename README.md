@@ -25,10 +25,4 @@ It provides a clear view of revenues, transactions, gross margin, and sales dist
 - **Power BI / Data Visualization**  
 - **Business Intelligence (BI) Best Practices**  
 
-## 🚀 Usage
-1. Clone this repository.  
-2. View the dashboard directly in this README or check the `assets/` folder for the image (if included).  
-3. Embed it in your own documentation with:
 
-```md
-![Sales Dashboard](https://github.com/user-attachments/assets/4f471062-9746-44dc-8aa7-250ca160b6c4)
